@@ -10,5 +10,9 @@ This code is originally from https://machinelearningmastery.com/how-to-perform-o
 
 يمكن تنفيذ البرنامج على منصة كولاب التشاركية من جوجل بعد رفع الملفات المرفقة إضافة لتحميل ملف الأوزان 
 
+
 للمزيد من المعلومات يرجى قراءة المقال كاملاً على منصة الذكاء الصناعي باللغة العربية 
+
 aiinarabic.com
+
+
