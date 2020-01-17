@@ -1,5 +1,5 @@
 # yolo3Keras
-Using pretrained YOLO3 model to detect the objects.
+Object detection by using pretrained YOLO3 model in Keras.
 This code is originally from https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
 الكشف عن الأغراض باستخدام الإصدار الثالث من خوارزمية الكشف في الزمن الحقيقي يولو  ضمن كيراس.
