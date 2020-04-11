@@ -13,6 +13,5 @@ This code is originally from https://machinelearningmastery.com/how-to-perform-o
 
 للمزيد من المعلومات يرجى قراءة المقال كاملاً على منصة الذكاء الصناعي باللغة العربية 
 
-aiinarabic.com
-
+https://aiinarabic.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
